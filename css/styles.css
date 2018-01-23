@@ -1,0 +1,12 @@
+.toDo, .done {
+  display: none;
+}
+
+.thisItem {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.thisItem:hover {
+  text-decoration: underline;
+}
